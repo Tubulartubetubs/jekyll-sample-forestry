@@ -1,4 +1,9 @@
 ---
 label: Test
 hide_body: false
-fields: []
+fields:
+- name: headerfield
+  type: text
+  config:
+    required: false
+  label: HeaderField
